@@ -1,4 +1,5 @@
 MNIST_data
 *.pyc
 *.pyo
+*.idea/
 __pycach*
